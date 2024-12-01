@@ -12,7 +12,4 @@
       "dest": "/index.html"
     }
   ],
-  "env": {
-    "VITE_TOGETHER_API_KEY": "@together_api_key"
-  }
 }
